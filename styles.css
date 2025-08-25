@@ -98,7 +98,7 @@ section{
     gap: 4px;
 }
 
-.currency {
+.currency, .currency-converted {
     color: #777777;
     font-size: 14px;
     font-weight: 400;
