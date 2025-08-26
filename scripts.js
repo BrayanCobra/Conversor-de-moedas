@@ -170,40 +170,40 @@ function convertvalue() {
 
 function MudouSelectaconverter() {
     if (currencyselecttoconvert.value == "dolar") {
-        logoaconverter.src = "./assets/Dolar.png"
+        logoaconverter.src = "./assets/dolar.png"
         textocurrencyaconverter.textContent = "Dólar"
     }
     if (currencyselecttoconvert.value == "euro") {
-        logoaconverter.src = "./assets/Euro.png"
+        logoaconverter.src = "./assets/euro.png"
         textocurrencyaconverter.textContent = "Euro"
     }
     if (currencyselecttoconvert.value == "won") {
-        logoaconverter.src = "./assets/Won.png"
+        logoaconverter.src = "./assets/won.png"
         textocurrencyaconverter.textContent = "Won"
     }
     if (currencyselecttoconvert.value == "real") {
-        logoaconverter.src = "./assets/Real.png"
+        logoaconverter.src = "./assets/real.png"
         textocurrencyaconverter.textContent = "Real"
     }
 }
 
 function MudouSelect() {
     if (currencyselect.value == "dolar") {
-        logoconvertida.src = "./assets/Dolar.png"
+        logoconvertida.src = "./assets/dolar.png"
         textocurrencyconvertida.textContent = "Dólar"
     }
     if (currencyselect.value == "euro") {
-        logoconvertida.src = "./assets/Euro.png"
+        logoconvertida.src = "./assets/euro.png"
         textocurrencyconvertida.textContent = "Euro"
     }
 
     if (currencyselect.value == "won") {
-        logoconvertida.src = "./assets/Won.png"
+        logoconvertida.src = "./assets/won.png"
         textocurrencyconvertida.textContent = "Won"
     }
 
     if (currencyselect.value == "real") {
-        logoconvertida.src = "./assets/Real.png"
+        logoconvertida.src = "./assets/real.png"
         textocurrencyconvertida.textContent = "Real"
     }
 
